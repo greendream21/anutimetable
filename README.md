@@ -5,7 +5,7 @@
 
 ## About
 
-This is an unofficial alternative timetable viewer for the Australian National University built by members of the [ANU Computer Science Students' Association](https://cssa.club/). It's available [here](https://timetable.cssa.club/). It serves as an up-to-date (automatically updated each day), fast, easy to use alternative to the [official timetable](http://timetabling.anu.edu.au/sws2022/). It replaces the *old* unofficial timetable [here](https://anutimetable.com/) which has not been updated for 2022.
+This is an unofficial alternative timetable viewer for the Australian National University built by members of the [ANU Computer Science Students' Association](https://cssa.club/). It's available [here](https://timetable.cssa.club/). It serves as an up-to-date (automatically updated each day), fast, easy to use alternative to the [official timetable](http://timetabling.anu.edu.au/sws2022/). It replaces the *old* unofficial timetable [here](https://anutimetable.com/) which has not been update for 2022.
 
 ## Development
 
