@@ -45,7 +45,7 @@ This is an unofficial alternative timetable viewer for the Australian National U
 - Migrated into the [ANU Computer Science Students' Association](https://cssa.club/)'s [GitHub organisation](https://github.com/anucssa) for ongoing maintenance
 - Deployed to https://timetable.cssa.club/
 
-### 2021-10-24
+### 2021-10-23
 - Calendar file generator (ICS/webcal) thanks to [@pl4nty](https://github.com/pl4nty), available at `/api/GetICS` eg `/api/GetICS?COMP2310_S2` or `/api/GetICS?COMP2310_S2=ComA 01,COMP2310_S2=ComB 01`
 
 ### 2021-07-17
